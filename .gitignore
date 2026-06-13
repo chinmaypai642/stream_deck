@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+build/
+dist/
+
+*.log
+
+spotify_token.json
+
+.vscode/
